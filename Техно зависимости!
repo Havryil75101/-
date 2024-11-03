@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Технологические зависимости!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Техно зависимости!</h1>
+    <p>Это такой вид зависимости, когда человек не может обойтись без использования определенных
+        технологий и устройств. </p>
+    <h2>Техно зависимости! </h2>
+             <ul>
+                   <li>зависимости!</li>
+                   <li>зависимости!</li>
+             </ul>
+     <img src="https://ins-clinic.ru/upload/iblock/25a/25a304f4a725c53e56b03882575efe03.jpg" alt="Image 1">
+</body>
+</html>
